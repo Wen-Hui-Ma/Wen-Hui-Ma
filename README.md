@@ -3,7 +3,7 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
     <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);小孙同学祝您今天愉快!&center=true&size=27" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);小马同学祝您今天愉快!&center=true&size=27" />
     </a>
   </div>
 
@@ -49,7 +49,7 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" />
 
-<p>&emsp;&emsp;大家好，我是小孙同学。</p>
+<p>&emsp;&emsp;大家好，我是小马同学。</p>
 <p>&emsp;&emsp;热爱编程、摄影、读书、旅行。</p>
 <p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名优秀的开发者。</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
@@ -87,7 +87,7 @@
 * <a href='https://blog.sunguoqi.com/posts/e9426d4f/' target='_blank'>珠海之旅｜去感受风，去聆听海，去触摸，去抵达</a> - 2024-01-03
 * <a href='https://blog.sunguoqi.com/posts/9f4f8f84/' target='_blank'>关于个人独立博客，我的折腾和思考</a> - 2023-12-09
 * <a href='https://blog.sunguoqi.com/posts/3eb6a074/' target='_blank'>Oh My Posh | Windows Terminal 美化指南</a> - 2023-07-15
-* <a href='https://blog.sunguoqi.com/posts/e7213992/' target='_blank'>小孙同学 の 第二大脑正在施工中。。。</a> - 2023-03-26
+* <a href='https://blog.sunguoqi.com/posts/e7213992/' target='_blank'>小马同学 の 第二大脑正在施工中。。。</a> - 2023-03-26
 * <a href='https://blog.sunguoqi.com/posts/abe837db/' target='_blank'>奔跑在自己的时区里，你好哇，我的 22 岁！</a> - 2023-02-25
 <!-- END_SECTION:blog -->
 
